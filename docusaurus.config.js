@@ -1,6 +1,6 @@
 module.exports = {
   title: 'MOVIE WORLD',
-  tagline: 'The tagline of my site',
+  tagline: 'DOWNLOAD OR WATCH LATEST MOVIE ',
   url: 'https://movie-world.vercel.app',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
